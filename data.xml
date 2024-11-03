@@ -1,0 +1,79 @@
+<ReservedAreas>
+    <area>
+        <name>Area 1</name>
+        <capacity>5</capacity>
+        <price>100</price>
+        <status>Available</status>
+        <image>1.jpeg</image>
+    </area>
+    <area>
+        <name>Area 2</name>
+        <capacity>5</capacity>
+        <price>180</price>
+        <status>Available</status>
+        <image>2.jpeg</image>
+    </area>
+    <area>
+        <name>Area 3</name>
+        <capacity>5</capacity>
+        <price>160</price>
+        <status>Unavailable</status>
+        <image>3.jpeg</image>
+    </area>
+    <area>
+        <name>Area 4</name>
+        <capacity>5</capacity>
+        <price>120</price>
+        <status>Available</status>
+        <image>4.jpg</image>
+    </area>
+    <area>
+        <name>Area 5</name>
+        <capacity>5</capacity>
+        <price>200</price>
+        <status>Available</status>
+        <image>5.avif</image>
+    </area>
+    <area>
+        <name>Area 6</name>
+        <capacity>10</capacity>
+        <price>300</price>
+        <status>Unavailable</status>
+        <image>6.jpeg</image>
+    </area>
+    <area>
+        <name>Area 7</name>
+        <capacity>10</capacity>
+        <price>320</price>
+        <status>Available</status>
+        <image>7.jpg</image>
+    </area>
+    <area>
+        <name>Area 8</name>
+        <capacity>20</capacity>
+        <price>620</price>
+        <status>Available</status>
+        <image>8.jpeg</image>
+    </area>
+    <area>
+        <name>Area 9</name>
+        <capacity>20</capacity>
+        <price>500</price>
+        <status>Available</status>
+        <image>9.jpg</image>
+    </area>
+    <area>
+        <name>Area 10</name>
+        <capacity>50</capacity>
+        <price>1100</price>
+        <status>Unavailable</status>
+        <image>5.avif</image>
+    </area>
+    <area>
+        <name>Area 11</name>
+        <capacity>50</capacity>
+        <price>1000</price>
+        <status>Available</status>
+        <image>7.jpg</image>
+    </area>
+</ReservedAreas>
